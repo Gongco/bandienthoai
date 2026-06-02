@@ -5,6 +5,10 @@ obj/
 **/obj/
 verify-build*/
 report_render/
+report_images/
 __pycache__/
 *.user
 ~$*.docx
+Bao_cao*.docx
+bao_cao*.txt
+build_report*.py
