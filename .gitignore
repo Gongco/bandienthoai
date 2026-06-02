@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+**/bin/
+**/obj/
+verify-build*/
+report_render/
+__pycache__/
+*.user
+~$*.docx
