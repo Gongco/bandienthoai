@@ -1,6 +1,7 @@
 using System.Data;
 using bandienthoai.DTO;
-using Microsoft.Data.SqlClient;
+using Microsoft.
+    Data.SqlClient;
 
 namespace bandienthoai.DAL
 {
